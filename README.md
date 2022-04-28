@@ -1,1 +1,1 @@
-# IT-STUDIO-project-1
+# IT-STUDIO-PROJECt-1
