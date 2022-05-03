@@ -5,13 +5,15 @@ p {
 
 body { 
   background-color: antiquewhite;
+  color: black;
+  font-family: Papyrus, fantasy; font-size: 24px; font-style: normal;
+  font-variant: normal; font-weight: 700; line-height: 26.4px;
   text-align: center;
   margin-left: 300px;
   margin-right: 300px;
 }
 
 h1 {
-    color: black;
     font-size: 3cm;
     text-align: center;
 }
