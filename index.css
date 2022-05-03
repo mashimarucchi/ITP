@@ -9,12 +9,14 @@ body {
   font-family: Papyrus, fantasy; font-size: 24px; font-style: normal;
   font-variant: normal; font-weight: 700; line-height: 26.4px;
   text-align: center;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 h1 {
     font-size: 3cm;
     text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
