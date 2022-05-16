@@ -1,0 +1,13 @@
+pre {
+    background-color: rgb(103, 87, 36);
+    font-family: "Papyrus";
+    font-size: large;
+} 
+h1 {
+    font-family: "Papyrus";
+    background-color: rgb(174, 2, 2);
+    font-size: 45px;
+}
+body {
+    background-color: rgb(0, 0, 0);
+}
