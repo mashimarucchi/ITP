@@ -9,7 +9,8 @@ body {
        margin-right: 100px;}
 
 .column { 
-        
-        width: 200; min-height: 200;
-          
+
+        float: left;
+        width: 33%;
+        padding: 0 10px;
 }
