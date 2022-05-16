@@ -1,0 +1,29 @@
+p { 
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Ftemples-hd&psig=AOvVaw1tPMR640ndVZo2JNk5KI2O&ust=1651633281554000&source=images&cd=vfe&ved=0CAwQjRxqGAoTCLCyvNOrwvcCFQAAAAAdAAAAABDoAw');
+}
+
+body { 
+  background-color: rgb(33, 18, 10);
+  color:darkgoldenrod ;
+  font-family: Papyrus, fantasy; font-size: 24px; font-style: normal;
+  font-variant: normal; font-weight: 700; line-height: 40.0px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+h1 {
+    font-size: 3cm;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.option{
+padding: 10px 20px;
+margin: 5px 10px;
+
+}
+
+
+
