@@ -5,7 +5,7 @@ p {
 
 body { 
   background-color: rgb(255, 236, 180);
-  color:darkgoldenrod ;
+  color:rgb(0, 0, 0) ;
   font-family: Papyrus, fantasy; font-size: 24px; font-style: normal;
   font-variant: normal; font-weight: 700; line-height: 40.0px;
   text-align: center;
