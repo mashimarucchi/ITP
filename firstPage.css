@@ -11,6 +11,12 @@ body {
 .column { 
 
         float: left;
-        width: 33%;
+        width: 55%;
         padding: 0 10px;
+}
+
+.card { 
+       padding: 16px;
+       text-align: center;
+
 }
