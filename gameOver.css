@@ -8,15 +8,3 @@ body {
        margin-left: 100px;
        margin-right: 100px;}
 
-.column { 
-
-        float: left;
-        width: 55%;
-        padding: 0 10px;
-}
-
-.card { 
-       padding: 16px;
-       text-align: center;
-
-}
