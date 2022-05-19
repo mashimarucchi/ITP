@@ -9,11 +9,36 @@ body {
   margin-right: 15%;
 }
 
+audio::-webkit-media-controls-mute-button {
+  background-color:darkgoldenrod;
+  border-radius: 50%;
+} 
+
+audio::-webkit-media-controls-play-button {
+  background-color: darkgoldenrod;
+  border-radius: 50%;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: goldenrod;
+}
+
+audio::-webkit-media-controls-current-time-display {
+  color: #fff;
+
+}
+
+audio::-webkit-media-controls-time-remaining-display {
+  color: #fff;
+
+}
+
 h1 {
     font-size: 400%;
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
+    
 }
 
 .container {
@@ -22,9 +47,12 @@ h1 {
 }
 
 a { 
-     color: goldenrod;
-     border: 20% solid goldenrod;
-     padding: 2px 10%;
+     
+     background-color: rgb(223, 180, 26);
+     color: rgba(69, 51, 7, 0.778);
+     border-radius: 15px 15px 15px;
+     border: 2px solid goldenrod;
+     padding: 6px 10px;
      text-align: center;
      text-decoration: none;
      display: inline-block;
